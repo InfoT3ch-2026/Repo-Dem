@@ -40,3 +40,7 @@ the current number and result in a textbox or label control.
 -> GUI Library (Windows Forms)
 
 -> IDE (Visual Studio)
+
+## Screenshot
+<img width="392" height="311" alt="image" src="https://github.com/user-attachments/assets/44e52d97-2a10-4885-ae98-c84e987c215e" />
+
