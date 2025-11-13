@@ -5,11 +5,6 @@ Completed on 11/02/2025
 
 -Shaqkir Louis-Boston
 
-## Description
-This is a simple GUI calculator program that allows users to perform basic arithmetic operations.
-The calculator supports addition, subtraction, multiplication, and division, and displays 
-the current number and result in a textbox or label control.
-
 ## Features
 -> Digital buttons for 0 through 9
 
